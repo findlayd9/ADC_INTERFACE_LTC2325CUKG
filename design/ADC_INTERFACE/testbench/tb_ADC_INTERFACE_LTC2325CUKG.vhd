@@ -9,6 +9,13 @@
 --  Author:     ChatGPT
 --  DATE:       31/10/2024  
 --  CHANGE:     Initial version
+-- -----------------
+--  CHANGES:
+--  
+--  Author:     Findlay Dougall
+--  DATE:       31/10/2024  
+--  CHANGE:     Minor updates to test procedure
+
 -- ================================================
 
 library IEEE;
